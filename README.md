@@ -1,1 +1,2 @@
-# Pure-ALOHA
+# ALOHA and DMLLI-MAC Simulator
+
