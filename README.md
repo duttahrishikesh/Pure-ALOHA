@@ -16,3 +16,5 @@ DMLLI-MAC.c:
 To implement the proposed DMLLI MAC protocol, the Reinforcement Learning update equations are embedded on top of the pure ALOHA simulator. The procedure of execution is same as that of ALOHA.c.
 
 The specific learning parameters learning rates, epsilon and discount factor can be defined by variables (alpha, beta), epsilon and gamma respectively
+
+The learing epochs can be defined using no_of_epochs
