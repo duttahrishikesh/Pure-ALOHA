@@ -1,5 +1,9 @@
 # ALOHA and DMLLI-MAC Simulator
 
+
+# [Please contact duttahr1@msu.edu for the code. This code is being used for development of an ongoing project]
+
+
 ALOHA.c:
 This Code simuates Pure ALOHA behavior in MAC layer. It is an event-driven simulator where the simulation kernel is based on the concept of event scheduling, in terms of packet generation, transmission and reception. 
 
